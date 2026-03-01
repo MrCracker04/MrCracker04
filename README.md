@@ -1,8 +1,9 @@
 ## Hi there 👋
 ## Goutam Kumar 😉
 
-## 🔗 I am a Graphic Artist. 😊😊
 <!--
+## 🔗 I am a Graphic Artist. 😊😊
+
 **MrCracker04/MrCracker04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
