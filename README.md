@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Goutam Kumar 😉
+## I'm Goutam Kumar 😉
 
 ## 🔗 I am a Graphic Artist. 😊😊
 <!--
