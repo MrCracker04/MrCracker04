@@ -1,8 +1,18 @@
 <div align="center">
+  
 ## Hi there 👋
+
+</div>
+
+<div align="center">
+  
 ## I'm Goutam Kumar 😉
 
-## 🔗 I'm a Graphic Artist. 😊😊
+</div>
+
+<div align="center">
+  
+## 🔗 I'm a Graphic Artist 😊😊
 
 </div>
 <!--
@@ -21,11 +31,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-## 🌐 Socials:
 <!--
 ## 🔗 Stay updated with me on Instagram and Twitter.
 -->
+  <div align="center">
+
+## 🌐 Socials:
+    
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mrrj4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mad__boy_devil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goutam-kumar-147aba37b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MrCracker04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrgautamaraj@gmail.com) 
 
 </div>
@@ -37,9 +49,11 @@ Here are some ideas to get you started:
   
 </div>
   
-# 📊 GitHub Stats:
+
 
 <div align="center">
+
+# 📊 GitHub Stats:
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrCracker04&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrCracker04&theme=radical">
@@ -65,7 +79,9 @@ Here are some ideas to get you started:
 </div>
 
   <div align="center">
+    
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=MrCracker04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
